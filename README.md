@@ -1,8 +1,7 @@
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/geeky-prashant/responsive-netflix-clone)
-  ![GitHub stars](https://img.shields.io/github/stars/geeky-prashant/responsive-netflix-clone)
-  ![GitHub forks](https://img.shields.io/github/forks/geeky-prashant/responsive-netflix-clone?style=social)
+  
  
   <br />
 
@@ -40,9 +39,6 @@ Windows:
 git clone https://github.com/geeky-prashant/responsive-netflix-clone.git
 ```
 
-### Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/geekyprashant).
 
 ### License
 
